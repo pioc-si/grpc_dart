@@ -1,5 +1,5 @@
-import 'package:auth/auth.dart' as auth;
+import 'package:auth/auth.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${auth.calculate()}!');
+  startServer();
 }
